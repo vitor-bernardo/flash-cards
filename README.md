@@ -24,11 +24,11 @@ Este projeto foi desenvolvido como parte do desafio de React da plataforma roadm
 
 ### Tela de Pergunta
 
-![Tela de Pergunta](./assets/preview-question.png)
+![Tela de Pergunta](src/assets/preview-question.png)
 
 ### Tela de Resposta
 
-![Tela de Resposta](./assets/preview-answer.png)
+![Tela de Resposta](src/assets/preview-answer.png)
 
 ## Instalação
 
